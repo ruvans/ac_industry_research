@@ -15,7 +15,19 @@ Sorted by highest female workers, with male workers included for ratio compariso
 
 ![A horizontal bar chart of industries by gender](top10_Female_Industries.png)
 
+### Good targets for workplace education and empowerment
 
+- The Human Health and Social Work Activities
+- Education
+
+This Health and Social work industry has the highest amounts of female workers by a wide margin with the Education industry coming in second. 
+These would be good targets for services for women.
+
+- Wholesale/Retail trade; repair of Vehicles
+- Administration and Defence; Social Security
+- Accommodation and Food service
+
+These industries have slightly fewer female workers but fairly equal female-to-male ratios. These would be good targets for services about inclusion and female empowerment.
 
 ## Top three industries for menopause aged female workers
 |Industry|Female workers|
@@ -30,7 +42,8 @@ Sorted by highest amount of menopause aged workers.
 
 Bars with a percentage higher than 12.86% have an above-average amount of menopause age workers.
 
-### Good targets for Menopause education 
+
+### Good targets for Menopause education
 
 - Human Health and Social Work activities
 
@@ -39,8 +52,3 @@ The highest amount of menopause workers are in this industry and they have a sli
 - Administration and Defence; Social Security
 
 Has the highest percentage of menopause age workers, although it doesn't have as many workers as other industries it will has a significant amount.
-
-### Poor targets for Menopause education 
-
-- Accommodation and Food Service
-Has the lowest percentage in the chart with 7.5%, almost half the average.
